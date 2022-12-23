@@ -1,0 +1,14 @@
+.v {
+    background-color: black;
+    color: white;
+}
+
+.c {
+    background-color: yellow;
+}
+.v,
+.c {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+    
+}
